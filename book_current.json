@@ -1,0 +1,22 @@
+{
+  "title": "流行的JS图表库：ECharts",
+  "description": "介绍JS图形库中比较好用的一个ECharts。先进行ECharts概览；再介绍如何上手ECharts；再给出常见的实例，包括柱状图、饼图、星状图等；以及给出ECharts开发期间的心得，包括ReactJS中如何用ECharts，以及相关的实例和心得。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "popular_js_chart_lib_echarts"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/books/popular_js_chart_lib_echarts/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.com/books/popular_js_chart_lib_echarts/pdf/popular_js_chart_lib_echarts.pdf"
+    }
+  }
+}
